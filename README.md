@@ -18,6 +18,9 @@ based on certain diagnostic measurements included in the dataset. Several constr
 on the selection of these instances from a larger database. In particular, all patients here are females
 at least 21 years old of Pima Indian heritage.
 
+![diabetes](https://github.com/alfalytics/Diabetes-Patients/assets/143225371/d3a70129-d258-45cd-9601-162fc4e12c45)
+
+
 ### Data Sources
 
 The dataset used for this analysis is the “Diabetes_Patients.csv" file, containing detailed information about each patient. 
